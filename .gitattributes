@@ -7,8 +7,13 @@ script/ export-ignore
 Gemfile export-ignore
 Gemfile.lock export-ignore
 
-license export-ignore
-REadme export-ignore
+.editorconfig export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+.gitmodules export-ignore
+
+LICENSE export-ignore
+README export-ignore
 
 _config.yml export-ignore
 index.html export-ignore
