@@ -1,6 +1,15 @@
-Gemfile export-ignore
-Gemfile.lock export-ignore
 _includes/ export-ignore
 _layouts/ export-ignore
 _posts/ export-ignore
-_script/ export-ignore
+node_modules/ export-ignore
+script/ export-ignore
+
+Gemfile export-ignore
+Gemfile.lock export-ignore
+
+license export-ignore
+REadme export-ignore
+
+_config.yml export-ignore
+index.html export-ignore
+package-lock.json export-ignore
