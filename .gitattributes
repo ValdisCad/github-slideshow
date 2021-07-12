@@ -1,1 +1,6 @@
 Gemfile export-ignore
+Gemfile.lock export-ignore
+_includes/ export-ignore
+_layouts/ export-ignore
+_posts/ export-ignore
+_script/ export-ignore
