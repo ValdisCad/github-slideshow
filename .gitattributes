@@ -13,7 +13,7 @@ Gemfile.lock export-ignore
 .gitmodules export-ignore
 
 LICENSE export-ignore
-README export-ignore
+README.md export-ignore
 
 _config.yml export-ignore
 index.html export-ignore
